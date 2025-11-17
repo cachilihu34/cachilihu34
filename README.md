@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cachilihu34
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...sql and java
+- 🌱 I’m currently learning Cloud technology and various coding languages
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...chiachilihu34@gmail.com
 - 😄 Pronouns: ...he/him
